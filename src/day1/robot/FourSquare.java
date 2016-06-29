@@ -30,7 +30,7 @@ public class FourSquare {
 		JOptionPane.showMessageDialog(null, "yay! you called the drawSquare() method!");
 for (int i = 0; i < 4; i++) {
 Starly.penDown();
-Starly.move(50);
+Starly.move(100);
 Starly.turn(90);		
 	}}
 	public static void main(String[] args) {
